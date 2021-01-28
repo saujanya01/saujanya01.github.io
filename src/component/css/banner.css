@@ -77,8 +77,36 @@
 }
 
 @media (max-width: 700px) {
-    
+
     .banner {
         margin: 2vw;
+    }
+
+    .banner-head {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .banner-head p {
+        width: auto;
+    }
+
+    .edu-n-work {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .banner-details-card {
+        width: auto;
+        text-align: center;
+    }
+
+    .banner-details-card ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    hr {
+        display: inline-block;
     }
 }
