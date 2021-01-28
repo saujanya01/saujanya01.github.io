@@ -89,6 +89,12 @@
 
     .banner-head p {
         width: auto;
+        font-size: 10vw;
+    }
+
+    .banner-head img {
+        width: 35vw;
+        height: 35vw;
     }
 
     .edu-n-work {
@@ -108,5 +114,21 @@
 
     hr {
         display: inline-block;
+    }
+
+    .banner-title {
+        font-size: 8vw;
+    }
+
+    .banner-card-topic {
+        font-size: 5vw;
+    }
+
+    .banner-card-topic-date {
+        font-size: 3vw;
+    }
+
+    .banner-card-topic-desc {
+        font-size: 4vw;
     }
 }
