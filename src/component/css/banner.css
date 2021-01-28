@@ -1,0 +1,84 @@
+.banner {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 300;
+    text-align: left;
+    margin-top: 100px;
+    font-size: 1vw;
+}
+
+.banner a {
+    text-decoration: underline;
+    color: black;
+}
+
+.banner a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+} 
+
+.banner-head {
+    margin-bottom: 3vw;
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+.banner-head p {
+    font-size: 3vw;
+    width: 50%;
+    display: inline-block;
+    margin: auto 0;
+}
+
+.banner-head img {
+    width: 10vw;
+    height: 10vw;
+    border-radius: 5%;
+    filter: grayscale(1);
+}
+
+.banner-head img:hover {
+    filter: none;
+    transition: 500ms;
+}
+
+.banner-title {
+    font-size: 1.5vw;
+    font-weight: 400;
+}
+
+.banner-details-card {
+    width: 50%;
+}
+
+.banner-details-card hr {
+    width: 10vw;
+    margin-top: 0%;
+}
+
+.banner-details-card p {
+    margin-bottom: 0%;
+}
+
+.banner-card-topic {
+    font-size: 1.25vw;
+}
+
+.banner-card-topic-date {
+    font-size: 0.75vw;
+}
+
+.banner-card-topic-desc {
+    font-size: 1vw;
+}
+
+.edu-n-work {
+    display: flex;
+}
+
+@media (max-width: 700px) {
+    
+    .banner {
+        margin: 2vw;
+    }
+}
