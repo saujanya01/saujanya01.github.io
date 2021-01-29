@@ -1,0 +1,10 @@
+footer {
+    text-align: center;
+    background-color:  rgb(240, 240, 240);
+}
+
+footer p{
+    margin: 0;
+    padding: 20px;
+    font-family: 'Maven Pro', sans-serif;
+}

@@ -38,6 +38,7 @@
     right: 1rem;
     flex-direction: column;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 .toggle-button .bar {

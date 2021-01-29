@@ -1,6 +1,6 @@
 import React from "react";
 
-function EducationItem(props) {
+function Item(props) {
     return (
         <ul>
             <li><p className="banner-card-topic"><a target="__blank" href={props.details.link}>{props.details.name}</a></p></li>
@@ -10,4 +10,4 @@ function EducationItem(props) {
     )
 }
 
-export default EducationItem;
+export default Item;

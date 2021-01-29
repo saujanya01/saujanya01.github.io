@@ -9,7 +9,7 @@ function ToggleButton() {
     }
 
     return(
-        <a href="#" onClick={handleClick} className="toggle-button">
+        <a onClick={handleClick} className="toggle-button">
             <span className="bar"></span>
             <span className="bar"></span>
             <span className="bar"></span>

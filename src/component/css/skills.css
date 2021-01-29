@@ -1,0 +1,84 @@
+.skills {
+    display: flex;
+    font-family: 'Comfortaa', cursive;
+    margin: 10vh 0;
+    flex-direction: column;
+}
+
+.skills p {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.skills hr {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.skills-card {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.skills-card-parent {
+    margin-top: 5vh;
+    display: flow-root;
+}
+
+.skill-items {
+    display: flow-root;
+    text-align: center;
+    justify-content: center;
+}
+
+.skill-items img {
+    width: 125px;
+    margin: 10px;
+    background: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    padding: 1vw;
+}
+
+.skill-items img:hover {
+    border-width: 1px;
+    border-style: groove;
+    border-color: black;
+    transition: 0.5s;
+}
+
+.skills-card:last-child:nth-child(odd) {
+    margin-left: 25%;
+}
+
+.skills-title {
+    font-size: 1.5vw;
+}
+
+@media (max-width: 700px) {
+    .skill-items {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .skill-items img {
+        display: inline-block;
+        margin: 0 auto;
+        height: 10vh;
+    }
+
+    .skills-card-parent {
+        display: flex;
+    }
+
+    .skills-title {
+        font-size: 5vw;
+    }
+
+    .skills-card {
+        margin-bottom: 10vh;
+    }
+
+    .skills-card:last-child:nth-child(odd) {
+        margin-left: 0%;
+    }
+}

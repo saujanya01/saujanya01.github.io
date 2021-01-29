@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Web Development",
+        "data": [
+            {
+                "name": "MongoDB",
+                "src": "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+            },
+            {
+                "name": "NodeJS",
+                "src": "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+            },
+            {
+                "name": "ReactJS",
+                "src": "https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+            },
+            {
+                "name": "express.js",
+                "src": "https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+            },
+            {
+                "name": "Flask",
+                "src": "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"
+            }
+        ]
+    },
+
+    {
+        "title": "ML, DL, DIP",
+        "data": [
+            {
+                "name": "scikit-learn",
+                "src": "https://raw.githubusercontent.com/scikit-learn/scikit-learn/ff2e52da0c09e8cb2d9a1b62bd4c3ea481187308/doc/logos/scikit-learn-logo.svg"
+            },
+            {
+                "name": "TensorFlow",
+                "src": "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"
+            },
+            {
+                "name": "Numpy",
+                "src": "https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"
+            },
+            {
+                "name": "Matplotlib",
+                "src": "https://matplotlib.org/_static/logo2.svg"
+            },
+            {
+                "name": "Pandas",
+                "src": "https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"
+            },
+            {
+                "name": "OpenCV",
+                "src": "https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
+            }
+        ]
+    },
+
+    {
+        "title": "Languages",
+        "data": [
+            {
+                "name": "Python",
+                "src": "https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original-wordmark.svg"
+            },
+            {
+                "name": "C/C++",
+                "src": "https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg"
+            },
+            {
+                "name": "JavaScript",
+                "src": "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/logo-javascript.svg"
+            },
+            {
+                "name": "Matlab",
+                "src": "https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_matlab.svg"
+            }
+        ]
+    },
+
+    {
+        "title": "Other Tools/Tech",
+        "data": [
+            {
+                "name": "Git/Github",
+                "src": "https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/github/github-original-wordmark.svg"
+            },
+            {
+                "name": "AWS EC2",
+                "src": "https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png"
+            }
+        ]
+    }
+]
