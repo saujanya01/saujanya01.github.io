@@ -25,8 +25,9 @@
     display: block;
 }
 
-.navbar-links li:hover {
-    background-color: rgb(255, 255, 255);
+.navbar-links a:hover {
+    color: rgb(255, 255, 255);
+    background-color: black ;
 }
 
 .toggle-button {

@@ -8,7 +8,7 @@ function Education(props) {
             name: "BIT Mesra",
             link: "https://bitmesra.ac.in",
             date: "2017-present",
-            desc: "Electrical And Electronics Engineering"
+            desc: "B.E. Electrical And Electronics Engineering"
         },
         {
             name: "St. Xavier's School, Ranchi",

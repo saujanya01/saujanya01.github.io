@@ -1,8 +1,19 @@
 import React from "react";
+import ProjectsList from "./ProjectsList";
+import projects from "./projects.json";
+
+import "../css/banner.css";
+import "../css/projects.css";
 
 function Projects() {
     return (
-        <h1>Projects Here</h1>
+        <div className="projects">
+            <p>Projects</p>
+            <hr/>
+            {projects.map((project, index)=>{
+                return <ProjectsList key={index} data={project}/>
+            })}
+        </div>
     );
 }
 

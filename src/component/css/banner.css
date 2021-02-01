@@ -1,4 +1,4 @@
-.banner {
+.banner, .projects {
     font-family: 'Comfortaa', cursive;
     font-weight: 300;
     text-align: left;
@@ -6,12 +6,12 @@
     font-size: 1vw;
 }
 
-.banner a {
+.banner a, .project-box p > a {
     text-decoration: underline;
     color: black;
 }
 
-.banner a:hover {
+.banner a:hover, .project-box p > a:hover {
     background-color: black;
     color: white;
     text-decoration: none;
@@ -34,7 +34,7 @@
     font-weight: 400;
 }
 
-.banner-head p, .skills > p {
+.banner-head p, .skills > p, .projects > p {
     font-size: 3vw;
     display: inline-block;
     margin: auto 0;
@@ -56,7 +56,7 @@
     width: 50%;
 }
 
-.banner-details-card hr, .skills hr {
+.banner-details-card hr, .skills hr, .projects hr {
     width: 10vw;
     margin-top: 0%;
 }
@@ -92,7 +92,7 @@
         align-items: center;
     }
 
-    .banner-head p, .skills > p {
+    .banner-head p, .skills > p, .projects > p {
         width: auto;
         font-size: 10vw;
         text-align: center;
@@ -103,9 +103,11 @@
         height: 35vw;
     }
 
-    .edu-n-work, .skills-card-parent {
+    .edu-n-work, .skills-card-parent, .project-box {
+        display: block;
         flex-direction: column;
         align-items: center;
+        text-align: center;
     }
 
     .banner-details-card, .skills-card {
@@ -126,15 +128,15 @@
         font-size: 8vw;
     }
 
-    .banner-card-topic {
+    .banner-card-topic, .project-box h1 {
         font-size: 5vw;
     }
 
-    .banner-card-topic-date {
+    .banner-card-topic-date, .project-box > p {
         font-size: 3vw;
     }
 
-    .banner-card-topic-desc {
+    .banner-card-topic-desc, .project-box p {
         font-size: 4vw;
     }
 

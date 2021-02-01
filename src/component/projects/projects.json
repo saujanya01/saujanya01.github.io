@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Corona Analytics",
+        "demo": "http://corona.dataislove.tech",
+        "github": "https://github.com/saujanya01/corona_app",
+        "techStack": "Python(flask), AWS, HTML, CSS, JavaScript, Highcharts",
+        "desc": "A website to show trends in COVID-19 cases using an open-source dataset and has a compare feature of trends of two countries. It also has a feature of real-time data of every affected country. This application was hosted using EC2 and Route53 features of AWS."
+    },
+    {
+        "title": "Diabetic Retinopathy",
+        "demo": null,
+        "github": null,
+        "techStack": "Python, Keras, OpenCV",
+        "desc": "Created and Classification Model for detection of Diabetic Retinopathy on APTOS dataset. The dataset was classified into 5 classes. An Ensemble of four models (EffNet, VGG19, ResNet50 and DenseNet121) was made to predict the results. This model attained overall accuracy of 87.252%. Techniques of one-hot encoding and cross validation was also used in this project."
+    },
+    {
+        "title": "Resume Parser",
+        "demo": null,
+        "github": "https://github.com/saujanya01/Resume_parser",
+        "techStack": "Python, JavaScript, NLP(Spacy)",
+        "desc": "A web application that takes a pdf or Docx file of a resume to extract features like name, email-id, phone number, and linkedin profile link, details of font(size and type), number of tables, characters and lines. The application finally returns a csv file of details which can be downloaded."
+    },
+    {
+        "title": "OCR",
+        "demo": null,
+        "github": "https://github.com/saujanya01/OCR",
+        "techStack": "Python, OpenCV",
+        "desc": "Used Python, image processing techniques and Tesseract-OCR engine for converting non-editable text in an image/pdf to editable format."
+    }
+]
