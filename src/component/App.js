@@ -3,7 +3,8 @@ import Navbar from "./navbar-component/Navbar";
 import "./css/navbar.css"
 import Banner from "./banner/Banner";
 import Footer from "./footer/Footer";
-import Projects from "./projects/Projects"
+import Projects from "./projects/Projects";
+import Contact from "./contact/Contact";
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
             <Switch>
                 <Route exact path="/" component={Banner}/>
                 <Route path="/projects" component={Projects}/>
-                {/* <Route path="/contact" component={Contact}/> */}
+                <Route path="/contact" component={Contact}/>
             </Switch>
             <Footer/>
         </Router>

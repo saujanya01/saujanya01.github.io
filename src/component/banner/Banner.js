@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
 import "../css/banner.css";
@@ -16,7 +17,9 @@ function Banner() {
                         <span>
                             I am an engineer.<br/>
                             I love Machine Learning, Deep Learning and Image Processing.<br/>
-                            I also like making websites.</span>
+                            I also like making websites.
+                        </span>
+                        <span><a href="https://drive.google.com/file/d/1Y9pshkMT29KrAvEGJ0mkkXKJaNJtVZQM/view?usp=sharing" target="__blank">Resume</a></span>
                     </div>
                     <img src="./image/profile-pic.jpg"/>
                 </div>

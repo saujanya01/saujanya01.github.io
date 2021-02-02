@@ -1,4 +1,4 @@
-.banner, .projects {
+.banner, .projects, .contact {
     font-family: 'Comfortaa', cursive;
     font-weight: 300;
     text-align: left;
@@ -34,7 +34,7 @@
     font-weight: 400;
 }
 
-.banner-head p, .skills > p, .projects > p {
+.banner-head p, .skills > p, .projects > p, .contact > p {
     font-size: 3vw;
     display: inline-block;
     margin: auto 0;
@@ -56,7 +56,7 @@
     width: 50%;
 }
 
-.banner-details-card hr, .skills hr, .projects hr {
+.banner-details-card hr, .skills hr, .projects hr, .contact hr {
     width: 10vw;
     margin-top: 0%;
 }
@@ -92,7 +92,7 @@
         align-items: center;
     }
 
-    .banner-head p, .skills > p, .projects > p {
+    .banner-head p, .skills > p, .projects > p, .contact > p {
         width: auto;
         font-size: 10vw;
         text-align: center;
