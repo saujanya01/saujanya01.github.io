@@ -7,7 +7,6 @@ import Education from "./Education";
 import Skills from "../skills/Skills";
 
 function Banner() {
-
     return (
         <>
             <div className="banner">
@@ -19,7 +18,7 @@ function Banner() {
                             I love Machine Learning, Deep Learning and Image Processing.<br/>
                             I also like making websites.
                         </span>
-                        <span><a href="https://drive.google.com/file/d/1Y9pshkMT29KrAvEGJ0mkkXKJaNJtVZQM/view?usp=sharing" target="__blank">Resume</a></span>
+                        <span><a href="https://docs.google.com/document/d/1m7dW9UeUiEfvz0A8JxzGwSw7Ov5zJ4pomGSYTdRXV78/edit?usp=sharing" target="__blank">Resume</a></span>
                     </div>
                     <img src="./image/profile-pic.jpg"/>
                 </div>
