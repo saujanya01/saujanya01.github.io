@@ -26,5 +26,12 @@
         "github": "https://github.com/saujanya01/OCR",
         "techStack": "Python, OpenCV",
         "desc": "Used Python, image processing techniques and Tesseract-OCR engine for converting non-editable text in an image/pdf to editable format."
+    },
+    {
+        "title": "Traffic Sign Detection",
+        "demo": "https://www.youtube.com/watch?v=1CDrcg4ZeiY",
+        "github": "https://github.com/saujanya01/yolo_init",
+        "techStack": "Python, OpenCV, Darknet53, YoloV3",
+        "desc": "Trained a traffic sign detection dataset of kaggle on YoloV3 architecture."
     }
 ]
