@@ -1,5 +1,12 @@
 [
     {
+        "title": "Melanoma Classification",
+        "demo": null,
+        "github": null,
+        "techStack": "Python, Keras, OpenCV",
+        "desc": "Created and Classification Model for detection of Melanoma on ISIC 2018 and ISIC 2019 dataset."
+    },
+    {
         "title": "Corona Analytics",
         "demo": "http://corona.dataislove.tech",
         "github": "https://github.com/saujanya01/corona_app",

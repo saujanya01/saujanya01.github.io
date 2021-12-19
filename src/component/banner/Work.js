@@ -5,6 +5,12 @@ function Work() {
 
     const work = [
         {
+            name: "Analyst @ Deloitte USI",
+            link: "https://www2.deloitte.com/ui/en.html",
+            date: "September 2021 - Present",
+            desc: "Working in testing of mainframe applications."
+        },
+        {
             name: "Summer Analyst @ Axis Bank (BIU)",
             link: "https://www.axisbank.com/",
             date: "May 2020 - June 2020",
