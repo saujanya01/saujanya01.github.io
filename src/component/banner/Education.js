@@ -7,7 +7,7 @@ function Education(props) {
         {
             name: "BIT Mesra",
             link: "https://bitmesra.ac.in",
-            date: "2017-present",
+            date: "2017-2021",
             desc: "B.E. Electrical And Electronics Engineering"
         },
         {
