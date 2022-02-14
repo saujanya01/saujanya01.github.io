@@ -5,10 +5,16 @@ function Work() {
 
     const work = [
         {
+            name: "SDE @ Frrole",
+            link: "https://frrole.ai",
+            date: "February 2022 - Present",
+            desc: "Working as a fullstack engineer."
+        },
+        {
             name: "Analyst @ Deloitte USI",
             link: "https://www2.deloitte.com/ui/en.html",
-            date: "September 2021 - Present",
-            desc: "Working in testing of mainframe applications."
+            date: "September 2021 - February 2022",
+            desc: "Worked in testing of mainframe applications."
         },
         {
             name: "Summer Analyst @ Axis Bank (BIU)",
