@@ -5,8 +5,8 @@ function Work() {
 
     const work = [
         {
-            name: "SDE @ Frrole",
-            link: "https://frrole.ai",
+            name: "SDE @ HyperVue AI",
+            link: "https://hypervue.ai",
             date: "February 2022 - Present",
             desc: "Working as a fullstack engineer."
         },
