@@ -5,16 +5,16 @@ function Education(props) {
 
     const education = [
         {
-            name: "BIT Mesra",
-            link: "https://bitmesra.ac.in",
-            date: "2017-2021",
-            desc: "B.E. Electrical And Electronics Engineering"
+            name: "Christ University, Bengaluru",
+            link: "https://christuniversity.in/",
+            date: "2020-2022",
+            desc: "Master of Arts in Applied Economics"
         },
         {
-            name: "St. Xavier's School, Ranchi",
-            link: "https://stxaviersschool.com",
-            date: "2004-2017",
-            desc: "Intermediate and Matriculation"
+            name: "St. Xavier's College, Ranchi",
+            link: "https://www.sxcran.org/",
+            date: "2017-2020",
+            desc: "Bachelor of Arts in Economics"
         }
     ];
 

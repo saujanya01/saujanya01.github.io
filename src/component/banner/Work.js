@@ -5,28 +5,22 @@ function Work() {
 
     const work = [
         {
-            name: "SDE @ HyperVue AI",
-            link: "https://hypervue.ai",
-            date: "February 2022 - Present",
-            desc: "Working as a fullstack engineer."
+            name: "Business Journalist @ Thomson Reuters ",
+            link: "https://www.thomsonreuters.com/en.html",
+            date: "July 2022 - July 2023",
+            desc: "Monitored and wrote business stories about North American resources (oil, gold, other metals) companies."
         },
         {
-            name: "Analyst @ Deloitte USI",
-            link: "https://www2.deloitte.com/ui/en.html",
-            date: "September 2021 - February 2022",
-            desc: "Worked in testing of mainframe applications."
+            name: "Data Analyst (Intern) @ J-PAL South Asia",
+            link: "https://www.povertyactionlab.org/south-asia",
+            date: "June 2022 - July 2022",
+            desc: "Led a data analysis team of research project about impact of behavioural nudges. Analyzed raw primary survey data and constructed a class wise d Nutritional Deficiency Index."
         },
         {
-            name: "Summer Analyst @ Axis Bank (BIU)",
-            link: "https://www.axisbank.com/",
-            date: "May 2020 - June 2020",
-            desc: "Interned with Outbound Call Centre Team on a Call Centre Analytics project to identify the best practices that are being followed in call Centres across the globe."
-        },
-        {
-            name: "Mentor/TA @ CodeAsylums",
-            link: "https://codeasylums.com/",
-            date: "Dec 2019 - October 2020",
-            desc: "Taught Python, Machine Learning and Digital Image Processing to bootcamp students."
+            name: "Application Developer (Intern) @ Annapoorna Trust",
+            link: "Sri Satya Sai Annapoorna Trust",
+            date: "May 2021 - June 2021",
+            desc: "Developed the premature version of Employee Attendance application on Zoho Creator. I proposed and embedded a Leave Tracker application within the Employee Attendance application."
         }
     ]
 

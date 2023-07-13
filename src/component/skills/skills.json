@@ -1,32 +1,32 @@
 [
     {
-        "title": "Web Development",
+        "title": "Languages & Databases",
         "data": [
             {
-                "name": "MongoDB",
-                "src": "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+                "name": "Python",
+                "src": "https://www.vectorlogo.zone/logos/python/python-icon.svg"
             },
             {
-                "name": "NodeJS",
-                "src": "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+                "name": "MySQL",
+                "src": "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
             },
             {
-                "name": "ReactJS",
-                "src": "https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+                "name": "PostgreSQL",
+                "src": "https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"
             },
             {
-                "name": "express.js",
-                "src": "https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+                "name": "R",
+                "src": "https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"
             },
             {
-                "name": "Flask",
-                "src": "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"
+                "name": "BigQuery",
+                "src": "https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"
             }
         ]
     },
 
     {
-        "title": "ML, DL, DIP",
+        "title": "ML, DL",
         "data": [
             {
                 "name": "scikit-learn",
@@ -51,32 +51,20 @@
             {
                 "name": "OpenCV",
                 "src": "https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
+            },
+            {
+                "name": "PyTorch",
+                "src": "https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
+            },
+            {
+                "name": "Power BI",
+                "src": "https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"
             }
+            
         ]
     },
 
-    {
-        "title": "Languages",
-        "data": [
-            {
-                "name": "Python",
-                "src": "https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original-wordmark.svg"
-            },
-            {
-                "name": "C/C++",
-                "src": "https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/cpp/cpp.svg"
-            },
-            {
-                "name": "JavaScript",
-                "src": "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/logo-javascript.svg"
-            },
-            {
-                "name": "Matlab",
-                "src": "https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_matlab.svg"
-            }
-        ]
-    },
-
+    
     {
         "title": "Other Tools/Tech",
         "data": [
@@ -85,8 +73,16 @@
                 "src": "https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/github/github-original-wordmark.svg"
             },
             {
-                "name": "AWS EC2",
-                "src": "https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png"
+                "name": "AWS",
+                "src": "https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
+            },
+            {
+                "name": "Flask",
+                "src": "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"
+            },
+            {
+                "name": "git",
+                "src": "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
             }
         ]
     }

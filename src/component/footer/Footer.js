@@ -4,7 +4,7 @@ import "../css/footer.css"
 function Footer() {
     return (
         <footer>
-            <p>Made with &hearts; by Saujanya Tiwari</p>
+            <p>Template by <a href="https://github.com/saujanya01">Saujanya Tiwari</a></p>
         </footer>
     )
 }

@@ -12,15 +12,15 @@ function Banner() {
             <div className="banner">
                 <div className="banner-head">
                     <div className="name-desc">
-                        <p>Saujanya Tiwari</p>
+                        <p>Ankit Kumar</p>
                         <span>
-                            I am an engineer.<br/>
-                            I love Machine Learning, Deep Learning and Image Processing.<br/>
-                            I also like making websites.
+                            A self-taught data scientist.<br/><br/>
+                            I have experience of building and deploying data-intensive applications. I am proficient in working with machine learning, deep learning
+algorithms and LLMs across diverse problems.<br/>
                         </span>
-                        <span><a href="/Saujanya_Tiwari_Resume_2023.pdf" target="__blank">Resume</a></span>
+                        <span><a href="/AnkitKumarResume.pdf" target="__blank">Resume</a></span>
                     </div>
-                    <img src="./image/profile-pic.jpg"/>
+                    <img src="/image/profile-pic.jpeg"/>
                 </div>
                 <div className="edu-n-work">
                     <Work/>

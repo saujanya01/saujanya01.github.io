@@ -1,50 +1,45 @@
 [
     {
-        "title": "WebMark",
-        "demo": "https://webmark.tech",
-        "github": null,
-        "desc": "A Chrome extension for managing bookmarks, creating categories for group of bookmarks and making a sharable link for each category."
+        "title": "Customer Churn Predictor",
+        "demo": "http://customer-churn-predictor-env.eba-8imya9zv.ap-south-1.elasticbeanstalk.com/",
+        "github": "https://github.com/ankak2635/Customer-Churn-Predictor",
+        "techStack": "Python, Machine Learning, HTML, CSS, Flask, AWS",
+        "desc": "A machine learning web application created using python and hosted on AWS elastic beanstalk to predict whether the company's customer will churn or not."
     },
     {
-        "title": "Melanoma Classification",
+        "title": "Sentiment & Emotion Classification of Tweets",
         "demo": null,
-        "github": null,
-        "techStack": "Python, Keras, OpenCV",
-        "desc": "Created and Classification Model for detection of Melanoma on ISIC 2018 and ISIC 2019 dataset."
+        "github": "https://github.com/ankak2635/Sentiment-and-Emotion-Classification-of-Tweets",
+        "techStack": "Python, NLP, LLMs, Hugging Face",
+        "desc": "Runs sentiment and emotion classification using Hugging Face's transformers models on about 25k tweets mentioning @Dell. Explores the sentiments and emotions to figure out the positives and negatives of the company's product and services."
     },
     {
-        "title": "Corona Analytics",
-        "demo": "http://corona.dataislove.tech",
-        "github": "https://github.com/saujanya01/corona_app",
-        "techStack": "Python(flask), AWS, HTML, CSS, JavaScript, Highcharts",
-        "desc": "A website to show trends in COVID-19 cases using an open-source dataset and has a compare feature of trends of two countries. It also has a feature of real-time data of every affected country. This application was hosted using EC2 and Route53 features of AWS."
-    },
-    {
-        "title": "Diabetic Retinopathy",
+        "title": "SQL: Danny's Diner Solved",
         "demo": null,
-        "github": null,
-        "techStack": "Python, Keras, OpenCV",
-        "desc": "Created and Classification Model for detection of Diabetic Retinopathy on APTOS dataset. The dataset was classified into 5 classes. An Ensemble of four models (EffNet, VGG19, ResNet50 and DenseNet121) was made to predict the results. This model attained overall accuracy of 87.252%. Techniques of one-hot encoding and cross validation was also used in this project."
+        "github": "https://github.com/ankak2635/Danny-s_Diner_Solved-SQL",
+        "techStack": "PostgreSQL",
+        "desc": "Demonstrates SQL skills via implementation of basic SELECT, GROUP BY,  and aggregations functions to advance JOINs, CTE, CASE, DENSE_RANK and Windows function."
     },
     {
-        "title": "Resume Parser",
+        "title": "SQL query via Python ",
         "demo": null,
-        "github": "https://github.com/saujanya01/Resume_parser",
-        "techStack": "Python, JavaScript, NLP(Spacy)",
-        "desc": "A web application that takes a pdf or Docx file of a resume to extract features like name, email-id, phone number, and linkedin profile link, details of font(size and type), number of tables, characters and lines. The application finally returns a csv file of details which can be downloaded."
+        "github": "https://github.com/ankak2635/Data-Analysis-Using-SQL",
+        "techStack": "Python, SQL, BigQuery",
+        "desc": "Creates a python client object to connect BigQuery public database to query 'hacker_news' dataset using SQL. Performs EDA and visualization."
     },
     {
-        "title": "OCR",
+        "title": "Movie Recommendation System",
+        "demo": null,
+        "github": "https://github.com/ankak2635/Movie-Recommendation-System",
+        "techStack": "Python, NLP, Machine Learning",
+        "desc": "A movie recommendation system which takes one movie name as user input and recommends 10 movies which the user might like based input."
+    },
+    {
+        "title": "Netflix EDA using R",
         "demo": null,
         "github": "https://github.com/saujanya01/OCR",
-        "techStack": "Python, OpenCV",
-        "desc": "Used Python, image processing techniques and Tesseract-OCR engine for converting non-editable text in an image/pdf to editable format."
-    },
-    {
-        "title": "Traffic Sign Detection",
-        "demo": "https://www.youtube.com/watch?v=1CDrcg4ZeiY",
-        "github": "https://github.com/saujanya01/yolo_init",
-        "techStack": "Python, OpenCV, Darknet53, YoloV3",
-        "desc": "Trained a traffic sign detection dataset of kaggle on YoloV3 architecture."
+        "techStack": "R-Programming",
+        "desc": "A basic exploratory data analysis (EDA) of Netflix dataset on a Kaggle notebook."
     }
+
 ]
