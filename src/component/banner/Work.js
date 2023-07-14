@@ -8,19 +8,19 @@ function Work() {
             name: "Business Journalist @ Thomson Reuters ",
             link: "https://www.thomsonreuters.com/en.html",
             date: "July 2022 - July 2023",
-            desc: "Monitored and wrote business stories about North American resources (oil, gold, other metals) companies."
+            desc: "Monitored and wrote accurate business stories about North American resources (oil, gold, other metals) companies in a fast-paced environment."
         },
         {
             name: "Data Analyst (Intern) @ J-PAL South Asia",
             link: "https://www.povertyactionlab.org/south-asia",
             date: "June 2022 - July 2022",
-            desc: "Led a data analysis team of research project about impact of behavioural nudges. Analyzed raw primary survey data and constructed a class wise d Nutritional Deficiency Index."
+            desc: "Led the data analysis team of a research project about impact of behavioural nudges. Analyzed raw primary survey data and constructed a class wise Nutritional Deficiency Index."
         },
         {
             name: "Application Developer (Intern) @ Annapoorna Trust",
             link: "Sri Satya Sai Annapoorna Trust",
             date: "May 2021 - June 2021",
-            desc: "Developed the premature version of Employee Attendance application on Zoho Creator. I proposed and embedded a Leave Tracker application within the Employee Attendance application."
+            desc: "Developed the premature version of Employee Attendance application on Zoho Creator. I proposed, built and embedded a Leave Tracker application within the Employee Attendance application."
         }
     ]
 
