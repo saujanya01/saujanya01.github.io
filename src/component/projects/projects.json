@@ -1,12 +1,12 @@
 [
-    {
-        "title": "WebMark",
+	{
+		"title": "WebMark",
         "demo": "https://webmark.tech",
         "github": null,
         "desc": "A Chrome extension for managing bookmarks, creating categories for group of bookmarks and making a sharable link for each category."
     },
     {
-        "title": "Melanoma Classification",
+		"title": "Melanoma Classification",
         "demo": null,
         "github": null,
         "techStack": "Python, Keras, OpenCV",
